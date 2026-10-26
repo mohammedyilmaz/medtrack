@@ -1,0 +1,23 @@
+:root {
+  --ion-color-primary: #0f766e;
+  --ion-color-primary-rgb: 15, 118, 110;
+  --ion-color-primary-contrast: #ffffff;
+  --ion-color-primary-contrast-rgb: 255, 255, 255;
+  --ion-color-primary-shade: #0d6861;
+  --ion-color-primary-tint: #278480;
+
+  --mt-overdue: #dc2626;
+  --mt-due: #d97706;
+  --mt-upcoming: #64748b;
+  --mt-done: #16a34a;
+}
+
+/* Keep the layout phone-sized on wide screens so the demo looks like the real app. */
+.mt-wrap { max-width: 640px; margin: 0 auto; width: 100%; }
+ion-header ion-toolbar { --background: var(--ion-background-color); }
+ion-tab-bar { --background: var(--ion-background-color); }
+ion-list { background: transparent; padding: 0; }
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; transition: none !important; }
+}

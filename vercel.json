@@ -1,0 +1,5 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist/medtrack/browser",
+  "rewrites": [{ "source": "/((?!ngsw-worker.js|ngsw.json|manifest.webmanifest|icons/).*)", "destination": "/index.html" }]
+}
