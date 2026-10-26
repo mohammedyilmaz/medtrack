@@ -1,5 +1,19 @@
 # MedTrack
 
+  **Live demo:** https://medtrack-omega-flame.vercel.app (login: `nurse` / `nurse123`)
+
+<img width="1918" height="906" alt="Screenshot_1" src="https://github.com/user-attachments/assets/d06a41fc-6f43-43e9-bef1-1c894f417d59" />
+
+<img width="1919" height="915" alt="Screenshot_2" src="https://github.com/user-attachments/assets/aa3b7cf6-ec09-4bef-93e9-8546e6ee1d5a" />
+
+<img width="1918" height="902" alt="Screenshot_3" src="https://github.com/user-attachments/assets/6600e685-ec37-4cdf-9eb0-b62ae7b41c8d" />
+
+<img width="1915" height="906" alt="Screenshot_4" src="https://github.com/user-attachments/assets/dc1e7260-f646-4784-80ec-ca0f08ea7cc6" />
+
+<img width="1918" height="902" alt="Screenshot_5" src="https://github.com/user-attachments/assets/82c2bbcc-ed34-4682-ab50-edd8d1983234" />
+
+<img width="1911" height="900" alt="Screenshot_6" src="https://github.com/user-attachments/assets/92ac6642-6bd2-458f-8b43-a1d615f6246c" />
+
 An offline-first medication rounds app built with **Ionic 8**, **Angular 18** and **Capacitor**.
 Nurses can confirm medication deliveries with no connection. Changes are saved on the device
 and synced automatically when the network returns.
