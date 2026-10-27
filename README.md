@@ -2,17 +2,17 @@
 
   **Live demo:** https://medtrack-omega-flame.vercel.app (login: `nurse` / `nurse123`)
 
-<img width="1918" height="906" alt="Screenshot_1" src="https://github.com/user-attachments/assets/d06a41fc-6f43-43e9-bef1-1c894f417d59" />
+<img width="332" height="720" alt="Screenshot_1" src="https://github.com/user-attachments/assets/b4929fbf-4fb5-4619-a0f7-384de6c15858" />
 
-<img width="1919" height="915" alt="Screenshot_2" src="https://github.com/user-attachments/assets/aa3b7cf6-ec09-4bef-93e9-8546e6ee1d5a" />
+<img width="329" height="710" alt="Screenshot_2" src="https://github.com/user-attachments/assets/fecadcc5-7941-48ee-9c85-fe4c47a33a40" />
 
-<img width="1918" height="902" alt="Screenshot_3" src="https://github.com/user-attachments/assets/6600e685-ec37-4cdf-9eb0-b62ae7b41c8d" />
+<img width="324" height="717" alt="Screenshot_3" src="https://github.com/user-attachments/assets/75bb9e10-329b-4be1-8741-cedbd33eb596" />
 
-<img width="1915" height="906" alt="Screenshot_4" src="https://github.com/user-attachments/assets/dc1e7260-f646-4784-80ec-ca0f08ea7cc6" />
+<img width="328" height="716" alt="Screenshot_4" src="https://github.com/user-attachments/assets/3c9e3ed9-5f93-41b7-8900-1749b86fe84a" />
 
-<img width="1918" height="902" alt="Screenshot_5" src="https://github.com/user-attachments/assets/82c2bbcc-ed34-4682-ab50-edd8d1983234" />
+<img width="325" height="712" alt="Screenshot_5" src="https://github.com/user-attachments/assets/15490b14-33b9-4bde-b56f-f044180f1040" />
 
-<img width="1911" height="900" alt="Screenshot_6" src="https://github.com/user-attachments/assets/92ac6642-6bd2-458f-8b43-a1d615f6246c" />
+<img width="329" height="716" alt="Screenshot_6" src="https://github.com/user-attachments/assets/f8e139fb-5e8f-4e0f-9a11-89ce5edb29bb" />
 
 An offline-first medication rounds app built with **Ionic 8**, **Angular 18** and **Capacitor**.
 Nurses can confirm medication deliveries with no connection. Changes are saved on the device
